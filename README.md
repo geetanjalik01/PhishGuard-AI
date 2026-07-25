@@ -159,35 +159,7 @@ PhishGuard-AI/
 │── requirements.txt
 │── README.md
 ```
-
 ---
-
-#  Screenshots
-
-## Home Page
-
-(Add Screenshot)
-
----
-
-## Email Scanner
-
-(Add Screenshot)
-
----
-
-##  URL Scanner
-
-(Add Screenshot)
-
----
-
-##  AI Explanation
-
-(Add Screenshot)
-
----
-
 #  Installation
 
 Clone the repository
