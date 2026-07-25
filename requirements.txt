@@ -1,0 +1,6 @@
+streamlit
+tensorflow-cpu
+scikit-learn
+nltk
+google-genai
+joblib

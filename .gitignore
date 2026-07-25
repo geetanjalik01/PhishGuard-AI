@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.env
+config.py
+Data/
+Notebook/
+Models/fake_news_model.pkl
+Models/fake_news_nn.keras
+Models/tfidf_configurations.pkl
+Models/y_train.pkl
+Models/y_test.pkl
