@@ -1,4 +1,4 @@
-#  PhishGuard AI
+#  AI-Powered Phishing Email & Malicious URL Detection
 ### AI-Powered Phishing Email & Malicious URL Detection with Explainable AI
 
 <p align="center">
